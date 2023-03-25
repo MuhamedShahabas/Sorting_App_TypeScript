@@ -6,7 +6,7 @@ const LinkedList_1 = require("./LinkedList");
 // --------------------------------------------
 // ----- Method by Abstract Sorter class ------
 // --------------------------------------------
-// Sorting numbers
+// Sorting array of numbers
 const numbersCollection = new NumbersCollection_1.NumbersCollection([95, 3, 3, 41, 99]);
 numbersCollection.sort();
 console.log(numbersCollection.data); // [ 3, 3, 41, 95, 99 ]
