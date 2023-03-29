@@ -24,6 +24,6 @@ Running the app will console log the above examples in the console by default. A
 Either clone or download the project.
 
 ```
-npm install
+npm i
 npm start
 ```
