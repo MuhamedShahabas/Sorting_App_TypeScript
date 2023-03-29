@@ -1,4 +1,4 @@
-#SORTING APP USING TYPESCRIPT#
+# SORTING APP USING TYPESCRIPT #
 
 A basic project that is written in TypeScript that sorts any given array of numbers, a string or a linked list in ascending order using the bubble sort algorithm.
 
