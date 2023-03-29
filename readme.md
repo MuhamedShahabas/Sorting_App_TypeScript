@@ -4,15 +4,15 @@ A basic project that is written in TypeScript that sorts any given array of numb
 
 ### Array of numbers
 ```
-[95, 3, 3, 41, 99] => *[ 3, 3, 41, 95, 99 ]*
+[95, 3, 3, 41, 99] => [ 3, 3, 41, 95, 99 ]
 ```
 
 ### String
 ```
-TypeScript => *ceipprSTty*
+TypeScript => ceipprSTty
 ```
 
 ### Linked List
 ```
-1 7 0 4 =>  *0 1 7 4*
+1 7 0 4 =>  0 1 7 4
 ```
